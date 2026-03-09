@@ -1,1 +1,24 @@
-NOTES ON CONFIGURING STATIC ROUTES
+## Detailed Router Configurations
+
+### 1. Router R1 (Edge Gateway)
+R1 connects the local LAN (PC1) to the rest of the network.
+* **Commands used:**
+```text
+R1(config)# interface g0/1
+R1(config-if)# ip address 192.168.1.254 255.255.255.0
+R1(config-if)# no shutdown
+R1(config)# ip route 192.168.3.0 255.255.255.0 192.168.12.2
+
+
+2. Router R2 (Hop)
+* **Commands used:**
+```text
+R2(config)# ip route 192.168.1.0 255.255.255.0 192.168.12.1
+R2(config)# ip route 192.168.3.0 255.255.255.0 192.168.13.3
+
+
+3. Router R1
+* **Commands used:**
+```text
+R3(config)# ip route 192.168.1.0 255.255.255.0 192.168.13.2
+
