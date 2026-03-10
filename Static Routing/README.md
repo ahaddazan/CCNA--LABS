@@ -1,5 +1,5 @@
 ### 1. Network Topology
-![Topology Diagram](topology.png.png)
+![Topology%20Diagram](topology.png.png)
 
 ## Detailed Router Configurations
 
@@ -13,7 +13,7 @@ R1(config-if)# no shutdown
 R1(config)# ip route 192.168.3.0 255.255.255.0 192.168.12.2
 ```
 ### 2. Router R1 - show ip route
-![R1 Routing Table](r1-routingtable.png.png)
+![R1%20Routing%20Table](r1-routingtable.png.png)
 
 2. Router R2 (Hop)
 * **Commands used:**
