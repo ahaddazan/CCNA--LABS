@@ -1,5 +1,5 @@
 ### 1. Network Topology
-![Topology_Diagram](https://github.com/ahaddazan/CCNA--LABS/blob/main/Static-Routing/topology.png.png?raw=true)
+![Topology_Diagram](topology.png.png)
 
 ## Detailed Router Configurations
 
