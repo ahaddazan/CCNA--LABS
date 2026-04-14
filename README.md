@@ -13,6 +13,6 @@ Welcome! I am currently studying for my CCNA 200-301. This repo tracks my progre
 
 ---
 ## 📬 Connect
-[LinkedIn](https://www.linkedin.com/ahaddazan)
+[LinkedIn](https://www.linkedin.com/in/ahaddazan)
 
 [TryHackMe](https://www.tryhackme.com/p/ahaddazan)
