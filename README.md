@@ -10,9 +10,12 @@ Welcome! I am currently studying for my CCNA 200-301. This repo tracks my progre
 ### 📂 My Labs
 * **[Day 1: Configuring Static Routes](./Static-Routing/)** — *A 3-router topology featuring static route configuration and connectivity verification.*
 * **[Day 2: Configuring STP & STP Toolkit](./ConfiguringSTP/)** — *A 4-switch topology featuring STP root bridge election, port cost manipulation, PortFast and BPDU Guard configuration.*
+* **[Day 3: IPv6 Static Routes](./IPv6-Static-Routes/README.md)** — *A 3-router topology featuring IPv6 unicast routing, SLAAC configuration, static routes, and a floating backup path.*
 
 ---
 ## 📬 Connect
 [LinkedIn](https://www.linkedin.com/in/ahaddazan)
 
 [TryHackMe](https://www.tryhackme.com/p/ahaddazan)
+
+[Instagram](https://www.instagram.com/ahaddazan)
